@@ -65,8 +65,8 @@ AI Engineer & Java Backend â€” building realtime **AI Camera Hub**, **ALPR (biá»
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=camerahubv1&theme=radical)](https://github.com/MNCuong/camerahubv1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=license_plate_VN&theme=radical)](https://github.com/MNCuong/license_plate_VN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=rasaChatbot&theme=radical)](https://github.com/MNCuong/rasaChatbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=camerahubv1&theme=radical)](https://github.com/MNCuong/camerahubv1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=rasaChatbot&theme=radical)](https://github.com/MNCuong/rasaChatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=flightFE&theme=radical)](https://github.com/MNCuong/flightFE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=bookingTN&theme=radical)](https://github.com/MNCuong/bookingTN)
 
 ---
 
