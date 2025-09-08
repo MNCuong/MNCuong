@@ -46,16 +46,15 @@ AI Engineer & Java Backend — building realtime **AI Camera Hub**, **ALPR (bi�
 ## 🔥 Featured Projects
 
 - **AI Camera Hub** — multi-camera realtime analytics (GStreamer + RGA/OpenCV + YOLO + tracking)  
-  Repo: [`YOUR_USERNAME/camerahubv1`](https://github.com/YOUR_USERNAME/camerahubv1)
+  Repo: [`MNCuong/camerahubv1`](/camerahubv1)
 
 - **ALPR Pipeline** — YOLO plate detect → rectify → CRNN OCR (ONNX/TensorRT ready)  
-  Repo: [`YOUR_USERNAME/alpr-pipeline`](https://github.com/YOUR_USERNAME/alpr-pipeline)
+  Repo: [`MNCuong/license_plate_VN`](/license_plate_VN)
 
-- **Face Recognition System** — InsightFace + tracking, anti-spoof, stream gateway  
-  Repo: [`YOUR_USERNAME/face-recognition`](https://github.com/YOUR_USERNAME/face-recognition)
-
-- **Backend Services** — Spring Boot, JWT auth, WebSocket, Kafka/Redis, MinIO, PostgreSQL/MongoDB  
-  Repo: [`YOUR_USERNAME/ai-backend`](https://github.com/YOUR_USERNAME/ai-backend)
+- **Backend Services** — Spring Boot, JWT auth, WebSocket, Kafka/Redis, MinIO, PostgreSQL/MongoDB booking flight  
+  Repo: [`MNCuong/bookingTN`](/bookingTN)
+- **Frontend Services** — Vuejs
+  Repo: [`MNCuong/flgihtFE`](/flightFE)
 
 > *Click the repos above to see architecture, benchmarks, and sample videos.*
 
@@ -63,31 +62,7 @@ AI Engineer & Java Backend — building realtime **AI Camera Hub**, **ALPR (bi�
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNCuong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNCuong&layout=compact&theme=radical)
 
 ---
-
-## ⏱ Code Activity (WakaTime)
-
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
-
-<!-- Bảng dưới cập nhật tự động bằng GitHub Actions -->
-<!-- athul/waka-readme sẽ chèn nội dung vào giữa 2 comment này -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 📈 Commit Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
