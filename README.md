@@ -59,10 +59,14 @@ AI Engineer & Java Backend — building realtime **AI Camera Hub**, **ALPR (bi�
 > *Click the repos above to see architecture, benchmarks, and sample videos.*
 
 ---
+## 🚀 Featured Projects
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNCuong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNCuong&layout=compact&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=detect-human&theme=radical)](https://github.com/MNCuong/detect-human)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=vehicle_detect_vn&theme=radical)](https://github.com/MNCuong/vehicle_detect_vn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=license_plate_VN&theme=radical)](https://github.com/MNCuong/license_plate_VN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=LPR&theme=radical)](https://github.com/MNCuong/LPR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=camerahubv1&theme=radical)](https://github.com/MNCuong/camerahubv1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MNCuong&repo=rasaChatbot&theme=radical)](https://github.com/MNCuong/rasaChatbot)
 
 ---
+
